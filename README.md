@@ -30,7 +30,8 @@
     <img width="12" />
 <img src="https://th.bing.com/th/id/OIP.vkIhDEPHEl4Er1ARHeY3xAHaHa?rs=1&pid=ImgDetMain" height="30" alt="drracket logo"  />
  <img width="12" />
-<p>
+  <h1> Check it out <h1>
+ <p>
   <a target="_blank" href="https://www.linkedin.com/in/irmakdamlaozdemir" style="display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
@@ -49,7 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/irmakozfe/irmakozfe/output/snake.svg" alt="Snake animation" />
 
 ###
 
