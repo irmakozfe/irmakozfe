@@ -1,4 +1,3 @@
-
 <h1>Hi 👋, I'm Irmak. I once had learned Scratch then i blinked an eye and ive found myself studying Computer Science :)</h1>
 <p>full time learner</p>
 <img align="right" alt="coding" width="400" src="https://usagif.com/wp-content/uploads/gify/39-anime-dance-girl-usagif.gif" style="float: right; margin-left: 20px; margin-bottom: 20px;">
@@ -35,5 +34,5 @@
   </a>
   <a target="_blank" href="https://medium.com/@irmakozfe" style="display: inline-block;">
     <img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" />
-  </a
-
+  </a>
+</p>
