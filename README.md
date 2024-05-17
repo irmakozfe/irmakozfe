@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Irmak. I once had learned Scratch then i blinked an eye and ive found myself studying Computer Science :)</h1>
 <p>full time learner </p>
-<image align= "right" width="400" src= "https://www.bing.com/images/search?view=detailV2&ccid=32frFAlS&id=DC05DBC95BA47607C25EF413EE152EE336951668&thid=OIP.32frFAlSYTH86Kot9cRuFwHaFO&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2feuMGM3uD3NHva%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.df67eb1409526131fce8aa2df5c46e17%3frik%3daBaVNuMuFe4T9A%26pid%3dImgRaw%26r%3d0&exph=384&expw=544&q=animated+gif+girl&simid=608023432643293772&FORM=IRPRST&ck=7A21060D51EE1960EE8907622E7945F4&selectedIndex=84&itb=0">
+<image align= "right" alt="coding" width="400" src= "https://www.bing.com/images/search?view=detailV2&ccid=32frFAlS&id=DC05DBC95BA47607C25EF413EE152EE336951668&thid=OIP.32frFAlSYTH86Kot9cRuFwHaFO&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2feuMGM3uD3NHva%2fgiphy.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.df67eb1409526131fce8aa2df5c46e17%3frik%3daBaVNuMuFe4T9A%26pid%3dImgRaw%26r%3d0&exph=384&expw=544&q=animated+gif+girl&simid=608023432643293772&FORM=IRPRST&ck=7A21060D51EE1960EE8907622E7945F4&selectedIndex=84&itb=0">
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
@@ -11,4 +11,3 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/irmakdamlaozdemir/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="undefinedhttps://medium.com/@irmakozfe" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-
