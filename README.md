@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-<img src="https://th.bing.com/th/id/OIP.vkIhDEPHEl4Er1ARHeY3xAHaHa?rs=1&pid=ImgDetMain" alt="drracket logo"  />
+<img src="https://th.bing.com/th/id/OIP.vkIhDEPHEl4Er1ARHeY3xAHaHa?rs=1&pid=ImgDetMain" height="30" alt="drracket logo"  />
 
 <h2>⚡ Check it out</h2>
 <p>
@@ -58,3 +58,9 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+
+
