@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Irmak. I once had learned Scratch then i blinked an eye and ive found myself studying Computer Science :)</h2>
+<h2 align="left">Hi 👋! I'm Irmak. I once had learned Scratch then I blinked an eye and now I'm studying Computer Science  ฅ^•ﻌ•^ฅ </h2>
 
 
 
