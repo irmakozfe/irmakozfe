@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! I'm Irmak.</h2>
-<h2 align="left"> I once had learned Scratch then I blinked an eye and now I'm studying Computer Science ฅ^•ﻌ•^ฅ </h2>
+<h2 align="center">Hi 👋! I'm Irmak.</h2>
+<h2 align="center"> I once had learned Scratch then I blinked an eye and now I'm studying Computer Science ฅ^•ﻌ•^ฅ </h2>
 
 
 
