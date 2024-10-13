@@ -4,11 +4,10 @@
 
 
 
-###
 
 <img align="right" height="300" src="https://i.pinimg.com/originals/d0/d0/f4/d0d0f497e74132aac08104ea8619e264.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java logo"  />
