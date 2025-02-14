@@ -19,6 +19,9 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.vkIhDEPHEl4Er1ARHeY3xAHaHa?rs=1&pid=ImgDetMain" height="30" alt="drracket logo" />
   <img width="12" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+
   
   <h2>Check it out ↓</h2>
   <p>
