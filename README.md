@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Irmak</h1>
   <h2>I once had learned Scratch then I blinked an eye and now I'm studying Computer Science ฅ^•ﻌ•^ฅ</h2>
 </div>
-<img align="right" height="300" src="https://i.pinimg.com/originals/d0/d0/f4/d0d0f497e74132aac08104ea8619e264.gif" />
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java logo" />
